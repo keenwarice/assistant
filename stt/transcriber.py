@@ -35,3 +35,4 @@ def recognize_from_microphone(on_detect_callback):
                         file.write(np.frombuffer(all_audio, dtype="int16"))
                     on_detect_callback(filename, text)
                     print(f"you have said: {text}")
+                    break
