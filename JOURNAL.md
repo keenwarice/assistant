@@ -39,3 +39,5 @@ next step: add voice recognition and assistant response<br/>
 just got voice recognition to work! i used resemblyzer and volunteered my sister to train the recognizer as well. it works for both of us and recognizes our separate voices. i obviously censored the names, but you can see the separate names.<br/>
 ![image of my voice recognition working](https://raw.githubusercontent.com/keenwarice/assistant/0c31c0ed3d48e6770e63093f9106580b24bd613c/journal_attatchments/2025-06-24%20voice%20recognition.png)<br/>
  <br/>
+ **10:11 PM:**<br/>
+ after a short break, i uploaded all of the voice recognition code and made simple code to easily add voices.
