@@ -12,7 +12,7 @@ got audio to work yippie!<br/>
  <br/>
 **9:07 PM:**<br/>
 YESSIR, got STT to work finally<br/>
-![image of an expert coder's STT working](https://github.com/keenwarice/assistant/blob/7fa26025a701c7c745ecd39e5ff69e68ebdc80c4/journal_attatchments/Screenshot%202025-06-23.png)<br/>
+![image of an expert coder's STT working](https://raw.githubusercontent.com/keenwarice/assistant/7fa26025a701c7c745ecd39e5ff69e68ebdc80c4/journal_attatchments/Screenshot%202025-06-23.png)<br/>
  <br/>
  
 # June 24th: WAKE WORD DETECTION
@@ -21,9 +21,9 @@ ITS NOT WORKINGGGGGGGGGGG<br/>
 so basically im trying to use vosk to listen constantly (don't worry I wont log it so you don't get spied on) and trying to get partial phrases to detect the wake word but idk whats happening<br/>
 for some reason its not working the second time the wake word is said<br/>
 normal function:<br/>
-![normal function of code](https://github.com/keenwarice/assistant/blob/ecab1a540b3ae39889de5407377b2cf8636f79cf/journal_attatchments/2025-06-24%20normal%20function.png)<br/>
+![normal function of code](https://raw.githubusercontent.com/keenwarice/assistant/ecab1a540b3ae39889de5407377b2cf8636f79cf/journal_attatchments/2025-06-24%20normal%20function.png)<br/>
 second time saying it:<br/>
-![image of perfectly fine code not doing what its supposed to](https://github.com/keenwarice/assistant/blob/ecab1a540b3ae39889de5407377b2cf8636f79cf/journal_attatchments/2025-06-24%20odd%20function.png)<br/>
+![image of perfectly fine code not doing what its supposed to](https://raw.githubusercontent.com/keenwarice/assistant/ecab1a540b3ae39889de5407377b2cf8636f79cf/journal_attatchments/2025-06-24%20odd%20function.png)<br/>
 **5:31 PM:**<br/>
 i fixed it. all i needed to do was reset last_detected, questioning my own intelligence<br/>
 wish me luck on working on the AI and voice recognition<br/>
