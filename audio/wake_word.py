@@ -34,4 +34,3 @@ def detect_wake_word(on_detect_callback):
                     last_detected = last_word
                 elif last_word != last_detected:
                     last_detected=""
-                print('the human has spoken the word "' + last_word+'"' )
