@@ -23,5 +23,7 @@ for some reason its not working the second time the wake word is said<br/>
 normal function:<br/>
 ![normal function of code](https://github.com/keenwarice/assistant/blob/ecab1a540b3ae39889de5407377b2cf8636f79cf/journal_attatchments/2025-06-24%20normal%20function.png)<br/>
 second time saying it:<br/>
-![image of perfectly fine code not doing what its supposed to](https://github.com/keenwarice/assistant/blob/ecab1a540b3ae39889de5407377b2cf8636f79cf/journal_attatchments/2025-06-24%20odd%20function.png)
-
+![image of perfectly fine code not doing what its supposed to](https://github.com/keenwarice/assistant/blob/ecab1a540b3ae39889de5407377b2cf8636f79cf/journal_attatchments/2025-06-24%20odd%20function.png)<br/>
+**5:31 PM:**<br/>
+i fixed it. all i needed to do was reset last_detected, questioning my own intelligence<br/>
+wish me luck on working on the AI and voice recognition<br/>
