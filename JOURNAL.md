@@ -14,3 +14,14 @@ got audio to work yippie!<br/>
 YESSIR, got STT to work finally<br/>
 ![image of an expert coder's STT working](https://github.com/keenwarice/assistant/blob/7fa26025a701c7c745ecd39e5ff69e68ebdc80c4/journal_attatchments/Screenshot%202025-06-23.png)<br/>
  <br/>
+ 
+# June 24th: WAKE WORD DETECTION
+**4:30-5:11 PM:**<br/>
+ITS NOT WORKINGGGGGGGGGGG<br/>
+so basically im trying to use vosk to listen constantly (don't worry I wont log it so you don't get spied on) and trying to get partial phrases to detect the wake word but idk whats happening<br/>
+for some reason its not working the second time the wake word is said
+normal function:
+![normal function of code](https://github.com/keenwarice/assistant/blob/ecab1a540b3ae39889de5407377b2cf8636f79cf/journal_attatchments/2025-06-24%20normal%20function.png)
+second time saying it:
+![image of perfectly fine code not doing what its supposed to](https://github.com/keenwarice/assistant/blob/ecab1a540b3ae39889de5407377b2cf8636f79cf/journal_attatchments/2025-06-24%20odd%20function.png)
+
