@@ -26,7 +26,7 @@ def add_user(name, filename):
 def recognize_user(filename):
     if not voice_db:
         print("cant find any voices 28")
-        return None, None
+        return "none", None
 
     print("recognizing from "+ filename)
     wav=preprocess_wav(filename)
