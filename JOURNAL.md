@@ -15,7 +15,7 @@ YESSIR, got STT to work finally<br/>
 ![image of an expert coder's STT working](https://raw.githubusercontent.com/keenwarice/assistant/7fa26025a701c7c745ecd39e5ff69e68ebdc80c4/journal_attatchments/Screenshot%202025-06-23.png)<br/>
  <br/>
  
-# June 24th: WAKE WORD DETECTION
+# June 24th: WAKE WORD DETECTION & PROMPT PROCESSING
 **4:30-5:11 PM:**<br/>
 ITS NOT WORKINGGGGGGGGGGG<br/>
 so basically im trying to use vosk to listen constantly (don't worry I wont log it so you don't get spied on) and trying to get partial phrases to detect the wake word but idk whats happening<br/>
@@ -27,3 +27,8 @@ second time saying it:<br/>
 **5:31 PM:**<br/>
 i fixed it. all i needed to do was reset last_detected, questioning my own intelligence<br/>
 wish me luck on working on the AI and voice recognition<br/>
+**7:20 PM:**<br/>
+I GOT IT TO WORK!<br/>
+i have gotten the script to record a single phrase after the wake word is said, identify it with vosk, and send the file & phrase over to the main Python file!!!!<br/>
+next step: add voice recognition and assistant response<br/>
+![image of the code actually working for once](https://raw.githubusercontent.com/keenwarice/assistant/3edba28b8b5f6bfd07f1cfa1da635a1c2241bb1b/journal_attatchments/2025-06-24%20itworks.png)
