@@ -35,4 +35,7 @@ i have gotten the script to record a single phrase after the wake word is said, 
 next step: add voice recognition and assistant response<br/>
 ![image of the code actually working for once](https://raw.githubusercontent.com/keenwarice/assistant/3edba28b8b5f6bfd07f1cfa1da635a1c2241bb1b/journal_attatchments/2025-06-24%20itworks.png)<br/>
  <br/>
- 
+ **8:50 PM:**
+just got voice recognition to work! i used resemblyzer and volunteered my sister to train the recognizer as well. it works for both of us and recognizes our separate voices. i obviously censored the names, but you can see the separate names.<br/>
+![image of my voice recognition working](https://raw.githubusercontent.com/keenwarice/assistant/0c31c0ed3d48e6770e63093f9106580b24bd613c/journal_attatchments/2025-06-24%20voice%20recognition.png)<br/>
+ <br/>
