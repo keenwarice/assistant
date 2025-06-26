@@ -51,4 +51,8 @@ just got voice recognition to work! i used resemblyzer and volunteered my sister
  there may be an issue. i was testing to see if my raspberry pi 5 was capable of running the AI (it was 4.1 gb), but when i tried downloading it weird colors started appearing on screen so i immediatley stopped it.<br/>
  i think it was about to crash but i thought maybe enabling adding more swap memory would help, so i overrode the limit and gave myself 2 gb over the max (4gb) of swap memory. hope i dont break the rpi. wish me luck. might have cooked the pi<br/>
  ![image of rpi on life support
-](https://raw.githubusercontent.com/keenwarice/assistant/fb73bbfa011226d33a13b523efeb9c45266323e6/journal_attatchments/2025-06-25%20rpi%20problem.png)
+](https://raw.githubusercontent.com/keenwarice/assistant/fb73bbfa011226d33a13b523efeb9c45266323e6/journal_attatchments/2025-06-25%20rpi%20problem.png)<br/>
+**8:25 PM:**<br/>
+there may be another issue.<br/>
+the pi wont run ai anymore even small models. i might have to find another solution but this might force me to find another computer or run it on an old home computer...<br/>
+ill hopefully find a solution soon
