@@ -40,4 +40,15 @@ just got voice recognition to work! i used resemblyzer and volunteered my sister
 ![image of my voice recognition working](https://raw.githubusercontent.com/keenwarice/assistant/0c31c0ed3d48e6770e63093f9106580b24bd613c/journal_attatchments/2025-06-24%20voice%20recognition.png)<br/>
  <br/>
  **10:11 PM:**<br/>
- after a short break, i uploaded all of the voice recognition code and made simple code to easily add voices.
+ after a short break, i uploaded all of the voice recognition code and made simple code to easily add voices.<br/>
+  <br/>
+ # June 25th: AI & INTERNET
+ **7:40 PM:**<br/>
+ ive worked on the AI integration for the entire afternoon, and i got it mostly to work. i let the AI search the web for results, but i think the AI is too stupid to understand my instructions, and is doing the opposite of WHAT I TELL IT. im thinking of switching from llama to zephyr.<br/>
+![idiot AI making something up](https://raw.githubusercontent.com/keenwarice/assistant/fb73bbfa011226d33a13b523efeb9c45266323e6/journal_attatchments/2025-06-25%20ai%20dumb.png)<br/>
+ <br/>
+ **8:12 PM:**<br/>
+ there may be an issue. i was testing to see if my raspberry pi 5 was capable of running the AI (it was 4.1 gb), but when i tried downloading it weird colors started appearing on screen so i immediatley stopped it.<br/>
+ i think it was about to crash but i thought maybe enabling adding more swap memory would help, so i overrode the limit and gave myself 2 gb over the max (4gb) of swap memory. hope i dont break the rpi. wish me luck. might have cooked the pi<br/>
+ ![image of rpi on life support
+](https://raw.githubusercontent.com/keenwarice/assistant/fb73bbfa011226d33a13b523efeb9c45266323e6/journal_attatchments/2025-06-25%20rpi%20problem.png)
