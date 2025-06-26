@@ -55,4 +55,6 @@ just got voice recognition to work! i used resemblyzer and volunteered my sister
 **8:25 PM:**<br/>
 there may be another issue.<br/>
 the pi wont run ai anymore even small models. i might have to find another solution but this might force me to find another computer or run it on an old home computer...<br/>
-ill hopefully find a solution soon
+ill hopefully find a solution soon<br/>
+**10:06 PM:**<br/>
+![the ai is not cooperating I am not very happy](https://raw.githubusercontent.com/keenwarice/assistant/fee34853c2f8868a24439e337a412058b1b70a41/journal_attatchments/2025-06-25%20ahhh.png)
