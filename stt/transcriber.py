@@ -22,10 +22,18 @@ def recognize_from_microphone(on_detect_callback):
     filename=f"recorded_{int(time.time())}.wav"
     audio_frames=[]
     print("speak now you lowly mortal")
+    start_time=time.time()
+    speech_heard=False
     with sd.RawInputStream(samplerate=SR, blocksize=8000, dtype="int16",channels=1,callback=audio_callback):
         while True:
+            if time.time() - start_time > 5 and not speech_heard: #prevent accidental spying
+                print("nvm")
+                return
             data=q.get()
             audio_frames.append(data)
+            partial=json.loads(recognizer.PartialResult()).get("partial","").strip()
+            if partial:
+                speech_heard=True
             if recognizer.AcceptWaveform(data):
                 result=json.loads(recognizer.Result())
                 text= result.get("text","")
