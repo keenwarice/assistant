@@ -4,9 +4,12 @@ from urllib.parse import quote
 
 def is_connected():
     try:
-        socket.create_connection(("www.google.com", 80), timeout=2)
-        return True
-    except OSError:
+        response=requests.get("https://google.com/generate_204") # i hope im allowed to use this...
+        if response.status_code==204:
+            return True
+        else:
+            return False
+    except requests.exceptions.RequestException as e:
         return False
     
 def search_google(question):
