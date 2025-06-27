@@ -56,5 +56,18 @@ just got voice recognition to work! i used resemblyzer and volunteered my sister
 there may be another issue.<br/>
 the pi wont run ai anymore even small models. i might have to find another solution but this might force me to find another computer or run it on an old home computer...<br/>
 ill hopefully find a solution soon<br/>
+ <br/>
 **10:06 PM:**<br/>
-![the ai is not cooperating I am not very happy](https://raw.githubusercontent.com/keenwarice/assistant/fee34853c2f8868a24439e337a412058b1b70a41/journal_attatchments/2025-06-25%20ahhh.png)
+![the ai is not cooperating I am not very happy](https://raw.githubusercontent.com/keenwarice/assistant/fee34853c2f8868a24439e337a412058b1b70a41/journal_attatchments/2025-06-25%20ahhh.png)<br/>
+<br/>
+# June 26th: big fixes with AI<br/>
+**7:53 PM:**<br/>
+YEAAAAAAH IT WORKED!!!!! i fixed the system prompt and made it have the capability to search the internet.<br/>
+![ai searching the internet](https://raw.githubusercontent.com/keenwarice/assistant/8be3238b016c7275dc3d4c1c47b9f7a3c1e25419/journal_attatchments/2025-06-26%20ai%20search.png)<br/>
+and yes that was accurate<br/>
+![real stock price](https://raw.githubusercontent.com/keenwarice/assistant/8be3238b016c7275dc3d4c1c47b9f7a3c1e25419/journal_attatchments/2025-06-26%20real%20stock%20price.png)<br/>
+ <br/>
+**8:01 PM:**<br/>
+okay, maybe the AI is still not smart...<br/>
+![bruh image](https://raw.githubusercontent.com/keenwarice/assistant/8be3238b016c7275dc3d4c1c47b9f7a3c1e25419/journal_attatchments/2025-06-26%20chicken.png)
+ 
