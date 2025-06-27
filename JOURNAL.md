@@ -69,5 +69,10 @@ and yes that was accurate<br/>
  <br/>
 **8:01 PM:**<br/>
 okay, maybe the AI is still not smart...<br/>
-![bruh image](https://raw.githubusercontent.com/keenwarice/assistant/8be3238b016c7275dc3d4c1c47b9f7a3c1e25419/journal_attatchments/2025-06-26%20chicken.png)
- 
+![bruh image](https://raw.githubusercontent.com/keenwarice/assistant/8be3238b016c7275dc3d4c1c47b9f7a3c1e25419/journal_attatchments/2025-06-26%20chicken.png)<br/>
+ <br/>
+# June 27th: TTS & small updates<br/>
+**3:42 PM:**<br/>
+updated the code with changes i made last night, minor changes like clearing up system prompt and fixing a problem where if the wake word is said accidentally, it would keep listening for a question forever. planning on adding TTS today<br/>
+
+
