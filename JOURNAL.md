@@ -13,8 +13,8 @@ got audio to work yippie!<br/>
 **9:07 PM:**<br/>
 YESSIR, got STT to work finally<br/>
 ![image of an expert coder's STT working](https://raw.githubusercontent.com/keenwarice/assistant/7fa26025a701c7c745ecd39e5ff69e68ebdc80c4/journal_attatchments/Screenshot%202025-06-23.png)<br/>
+**time spent: ~30m**<br/>
  <br/>
- 
 # June 24th: WAKE WORD DETECTION & PROMPT PROCESSING
 **4:30-5:11 PM:**<br/>
 ITS NOT WORKINGGGGGGGGGGG<br/>
@@ -41,6 +41,7 @@ just got voice recognition to work! i used resemblyzer and volunteered my sister
  <br/>
  **10:11 PM:**<br/>
  after a short break, i uploaded all of the voice recognition code and made simple code to easily add voices.<br/>
+**time spent: 2hr**
   <br/>
  # June 25th: AI & INTERNET
  **7:40 PM:**<br/>
@@ -59,6 +60,7 @@ ill hopefully find a solution soon<br/>
  <br/>
 **10:06 PM:**<br/>
 ![the ai is not cooperating I am not very happy](https://raw.githubusercontent.com/keenwarice/assistant/fee34853c2f8868a24439e337a412058b1b70a41/journal_attatchments/2025-06-25%20ahhh.png)<br/>
+**time spent: ~ 2hr 57m**<br/>
 <br/>
 # June 26th: big fixes with AI<br/>
 **7:53 PM:**<br/>
@@ -70,9 +72,18 @@ and yes that was accurate<br/>
 **8:01 PM:**<br/>
 okay, maybe the AI is still not smart...<br/>
 ![bruh image](https://raw.githubusercontent.com/keenwarice/assistant/8be3238b016c7275dc3d4c1c47b9f7a3c1e25419/journal_attatchments/2025-06-26%20chicken.png)<br/>
+**time spent: 1hr 52m**<br/>
  <br/>
 # June 27th: TTS & small updates<br/>
 **3:42 PM:**<br/>
 updated the code with changes i made last night, minor changes like clearing up system prompt and fixing a problem where if the wake word is said accidentally, it would keep listening for a question forever. planning on adding TTS today<br/>
-
+ <br/>
+**8:29**:<br/>
+after a few bugs and a WHILE of looking for a decent voice (which ill have to redo for when I transfer it to my rpi) i settled on a voice called "Daniel" which was the only decent voice.<br/>
+apparently for every OS there is a different set of voices, so if anyone wants to use this, they have to choose a different voice<br/>
+i cant really put an image for audio...<br/>
+**time spent: ~1h**<br/>
+(btw I forgot to add time spent on all of the things up to today, but luckily every time I put a journal I posted a devlog on SOM, so I just got the times from [here](https://summer.hackclub.com/projects/3353))
+ <br/>
+ 
 
