@@ -18,7 +18,7 @@ def detect_wake_word(on_detect_callback):
     model=Model(model_path)
     wake_words= ["sirius", "serious", "seriously"] # just in case
     recognizer = KaldiRecognizer(model, SR)
-    print("listening for wake word and not spying like other assistants do...")
+    q.queue.clear()
     print(wake_words)
     last_detected=""
     with sd.RawInputStream(samplerate=SR, blocksize= 8000, dtype="int16", channels=1,callback=audio_callback):
@@ -32,5 +32,6 @@ def detect_wake_word(on_detect_callback):
                 if last_word in wake_words and last_word != last_detected:
                     on_detect_callback()
                     last_detected = last_word
+                    return
                 elif last_word != last_detected:
                     last_detected=""
